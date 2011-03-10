@@ -8,7 +8,7 @@
 
 /* Ondokuz Mayis Universitesi 
  * Bilgisayar Muhendisligi Bolumu
- * 2. sinif ogrencisiyim
+ * 3. sinif ogrencisi
  * 
  * Sedat Geldi
  * 
