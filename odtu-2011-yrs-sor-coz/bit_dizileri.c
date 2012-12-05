@@ -36,13 +36,13 @@
  *
  *  		|Onlar	|Birler	|
  * ------------------------------------------------------			
- *	 		|		|		| 11010 -> ( 2^N + N-1 ) = 26
+ *	 	|		|	    | 11010 -> ( 2^N + N-1 ) = 26
  *	Shift-1 |		|	  1 | 1010
  *	Shift-2 |		|	 11 | 010
  *	Shift-3 |		|	110 | 10  ( Her kaydirmada(Shift) her basamak kontrol edilir ve 5 'den buyuk oldugunda 3 eklenir(Add-3))
- *	Add-3 	|	  	|  1001 | 10
- *	Shift-4 |	  1 |  0011	| 0
- *	Shift-5 |	 10	|  0110	|
+ *	Add-3 	|	  	|      1001 | 10
+ *	Shift-4 |	      1 |      0011 | 0
+ *	Shift-5 |	      10|      0110 |
  * --------------------------------------------------
  * Dec      |    2  |   6   | = 26 olarak bulunur.
  *
